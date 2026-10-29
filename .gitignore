@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+config.json
+estado.json
+historico.csv
+execucoes.log

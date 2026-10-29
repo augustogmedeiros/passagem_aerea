@@ -1,0 +1,24 @@
+{
+  "origens": ["GRU", "BSB"],
+  "destinos": ["MCO"],
+  "datas_ida": {
+    "de": "2027-03-01",
+    "ate": "2027-03-31",
+    "passo_dias": 3
+  },
+  "duracao_estadia_dias": [14],
+  "adultos": 1,
+  "classe": "economy",
+  "max_escalas": 1,
+
+  "preco_alvo": 4000,
+  "queda_minima_pct": 5,
+  "lembrete_horas": 48,
+  "max_buscas_por_execucao": 60,
+
+  "telegram": {
+    "token": "COLE_AQUI_O_TOKEN_DO_BOTFATHER",
+    "chat_ids_alerta": [],
+    "chat_id_admin": null
+  }
+}
